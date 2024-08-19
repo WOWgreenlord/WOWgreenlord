@@ -2,7 +2,7 @@
 
 ⚙️ Student interested in web development <br/>
 👨‍🎓 Studying at the [National Research Uni​versity "Moscow Power Engineering Institute"](https://mpei.ru/lang/en/Pages/default.aspx) <br/>
-💭 Currently learning [JavaScript](https://javascript.info/) <br/>
+💭 Currently learning [Angular](https://angular.dev/) <br/>
 
 # 💻 Tech Stack
 
