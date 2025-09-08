@@ -10,4 +10,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+# :heavy_exclamation_mark: GitHub Stats
+
 [![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOWgreenlord&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+# :white_check_mark: List of complete projects
+
+## Landings (HTML and CSS only)
+- [Valmari](https://github.com/WOWgreenlord/Valmari-landing.git)
+- [F&B](https://github.com/WOWgreenlord/f-b-landing.git)
+- [NFTmarketplace](https://github.com/WOWgreenlord/NFTMarketplace-landing.git)
