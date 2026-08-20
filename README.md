@@ -19,5 +19,6 @@
 ## Landings (HTML and CSS only)
 - [Ink.House](https://github.com/WOWgreenlord/Ink-house-landing)
 - [Habitus](https://github.com/WOWgreenlord/Habitus-landing1)
+- [Room Tibet](https://github.com/WOWgreenlord/room-tibet-landing)
 - [F&B](https://github.com/WOWgreenlord/f-b-landing.git)
 - [NFTmarketplace](https://github.com/WOWgreenlord/NFTMarketplace-landing.git)
