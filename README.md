@@ -17,7 +17,7 @@
 # :white_check_mark: List of complete projects
 
 ## Landings (HTML and CSS only)
-- [Room Tibet](https://github.com/WOWgreenlord/room-tibet-landing)
-- [Valmari](https://github.com/WOWgreenlord/Valmari-landing.git)
+- [Ink.House](https://github.com/WOWgreenlord/Ink-house-landing)
+- [Habitus](https://github.com/WOWgreenlord/Habitus-landing1)
 - [F&B](https://github.com/WOWgreenlord/f-b-landing.git)
 - [NFTmarketplace](https://github.com/WOWgreenlord/NFTMarketplace-landing.git)
