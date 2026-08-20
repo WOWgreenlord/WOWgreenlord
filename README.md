@@ -12,7 +12,7 @@
 
 # :heavy_exclamation_mark: GitHub Stats
 
-[![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOWgreenlord&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Misha's GitHub stats](https://github-stats-extended.vercel.app/api?username=WOWgreenlord&theme=nord)](https://github.com/stats-organization/github-stats-extended)
 
 # :white_check_mark: List of complete projects
 
