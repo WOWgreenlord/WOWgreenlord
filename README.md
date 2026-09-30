@@ -17,6 +17,9 @@
 
 # :white_check_mark: List of complete projects
 
+## Frontends (HTML, CSS, JS)
+- [FutureTech](https://github.com/WOWgreenlord/future-tech-frontend)
+
 ## Landings (HTML and CSS only)
 - [Ink.House](https://github.com/WOWgreenlord/Ink-house-landing)
 - [Positivus](https://github.com/WOWgreenlord/positivus-landing)
